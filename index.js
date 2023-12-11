@@ -1,1 +1,1 @@
-console.log( 'Chk-1' );
+console.log( 'CHK-1' );
